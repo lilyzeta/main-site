@@ -158,7 +158,9 @@ a {
   font-size: 28px;
   padding: 15px;
 }
-
+.accent-link {
+  color: #7eb87d;
+}
 /* Footer */
 .footer_section {
   background-color: var(--midgrayblue);
